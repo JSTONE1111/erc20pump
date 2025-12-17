@@ -9,8 +9,8 @@ require (
 )
 
 require (
-	github.com/btcsuite/btcd v0.22.0-beta // indirect
 	github.com/btcsuite/btcd/btcec/v2 v2.1.3 // indirect
+	github.com/btcsuite/btcd/chaincfg/chainhash v1.1.0 // indirect
 	github.com/deckarep/golang-set v1.8.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
@@ -18,6 +18,7 @@ require (
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/shirou/gopsutil v3.21.11+incompatible // indirect
+	github.com/stretchr/testify v1.8.4 // indirect
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/tklauser/numcpus v0.4.0 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
